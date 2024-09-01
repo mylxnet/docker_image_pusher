@@ -1,2 +1,1 @@
-#支持指定架构
---platform=linux/arm64 immortalwrt/sdk:aarch64_cortex-a53-snapshot
+immortalwrt/sdk:aarch64_cortex-a53-snapshot
