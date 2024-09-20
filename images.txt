@@ -1,1 +1,1 @@
-immortalwrt/sdk:aarch64_cortex-a53-snapshot
+neosmemo/memos:stable
