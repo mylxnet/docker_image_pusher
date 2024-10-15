@@ -3,3 +3,4 @@ joinsunsoft/docker.ui
 asdlokj1qpi23/subconverter:latest
 jaaksi/sublinkx
 youshandefeiyang/allinone
+lovechen/embyserver
