@@ -5,3 +5,4 @@ jaaksi/sublinkx
 youshandefeiyang/allinone
 lovechen/embyserver
 xream/sub-store
+immortalwrt/sdk:armsr-armv8
